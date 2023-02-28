@@ -1,5 +1,4 @@
 # Underlords-Adaptive-Resolution
-A python scripts that sets Dota Underlords resolution to the one that your primary monitor has.
 Скрипт на питоне, который установит разрешение вашего основного монитора для игры Dota Underlords.
 
 ## Как запустить:
